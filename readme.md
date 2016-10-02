@@ -34,4 +34,3 @@ This dataset was collected and prepared by the CALO Project (A Cognitive Assista
 [The starter code folder](./code/starter-code/starter-code-1_3.ipynb) contains a Jupyter notebook with a series of questions. Most questions can be solved in more than one way and using different tools. Feel free to use both SQL and Pandas to tackle them.
 
 
-> [Solution Code](./code/solution-code/solution-code-1_3.ipynb)
